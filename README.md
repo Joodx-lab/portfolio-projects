@@ -38,12 +38,21 @@ Website designed to help employees navigate internal buildings and offices.
 
 ---
 
-## UI Design (Figma)
+## UI Design – Website Concept (Figma)
 
-UI design concept created using Figma as part of my design practice.
+Website interface design created using Figma as part of my UI/UX practice.
+
+**Features**
+
+* Homepage layout design
+* About page variations and layout exploration
+* Food content presentation
+* Responsive-style page structure
 
 **Focus**
 
-* Layout design
-* User interface structure
-* Visual organization
+* Visual hierarchy
+* Clean layout design
+* UI experimentation
+
+Screenshots of the design are included in the repository.
